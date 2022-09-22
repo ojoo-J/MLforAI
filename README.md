@@ -3,6 +3,5 @@
 - 20180794 정영주
 
 
-## Week 1
-- Github Intro, Colab Intro, Markdown Intro
-- W2Prac1.ipynb
+## Ref
+- https://github.com/ikwak2/Hands-On-Data-Analysis-with-Pandas-2nd-edition
